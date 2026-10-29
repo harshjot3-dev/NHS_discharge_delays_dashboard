@@ -14,7 +14,8 @@ The report contains two pages, each designed to answer a different operational q
 
 ### Page 1 — England Overview
 
-![NHS Discharge Delays — England Overview](screenshots/page1_england_overview.png)
+[![NHS Discharge Delays — England Overview](screenshots/page_1_england_overview.png)](screenshots/page_1_england_overview.png)
+
 
 The England overview provides a national summary of discharge delays through:
 
@@ -25,7 +26,7 @@ The England overview provides a national summary of discharge delays through:
 
 ### Page 2 — Trust Prioritisation
 
-![NHS Discharge Delays — Trust Prioritisation](screenshots/page2_trust_prioritisation.png)
+[![NHS Discharge Delays — Trust Prioritisation](screenshots/page_2_trust_prioritisation.png)](screenshots/page_2_trust_prioritisation.png)
 
 The trust prioritisation page focuses on where the recorded bed-day burden is concentrated:
 
