@@ -110,7 +110,7 @@ The `.pbix` file allows users with Power BI Desktop to explore the report and in
 nhs-discharge-delays-dashboard/
 ├── README.md
 ├── report/
-│   └── NHS_Discharge_Delays.pbix
+│   └── NHS_Dashboard.pbix
 └── screenshots/
     ├── page1_england_overview.png
     └── page2_trust_prioritisation.png
